@@ -1,0 +1,11 @@
+1.  File system: fs
+    -This node object is used to interact with files via node. With the file system API you can manipulate, create, read from,
+    and write to files. This API is very useful for data related node tasks and file manipulation node tasks.
+2. URL 
+    -This node module is used to format urls and interact with them. When working with urls, it is challenging to correctly format and parse them. 
+    This object makes it much easier to do so. In my example I created a fake URL using the module and then found the host name and path name of it
+    using this object.
+3.path
+    -The path module is another object that is great for working with files in node. It can be used to handle file paths and tranform them.
+    This can also be used to extract specific parts of a file path. Using the path module in combination with the file system module can allow
+    the user to easily access, direct to, write to, and read specific files in a directory.
