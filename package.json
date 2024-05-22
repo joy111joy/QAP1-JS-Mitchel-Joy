@@ -1,0 +1,14 @@
+{
+  "name": "qap1-js-mitchel-joy-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Problem_One_fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
