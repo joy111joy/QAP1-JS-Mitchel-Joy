@@ -1,0 +1,18 @@
+1. How many hours did it take to complete this assignment?
+	This assignment took me roughly 1.5 hours.
+
+2. What online resources did I use?
+	Here is a list of some of the resources I used:
+
+	- W3School:
+		I used W3 schools to help me with some of the node syntax and also to help with the objects.
+
+
+3. Did I need to ask any of my friends to help solve my problems?
+	I did not ask any friends for help
+
+4. Did I need to ask my instructor for any help?
+	I asked one of my intructors for help on which files to ignore when submitting
+
+5. Rate the difficulty of this assignment:
+	I would rate this assignment a 4/10 in difficulty. Though it wasnt too hard, I had some trouble first getting to know the objects and their purpose. After some 	research it was very straightforward from then on. I am very confident that I could complete a similar project in the future.
