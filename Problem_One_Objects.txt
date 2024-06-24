@@ -9,3 +9,9 @@
     -The path module is another object that is great for working with files in node. It can be used to handle file paths and tranform them.
     This can also be used to extract specific parts of a file path. Using the path module in combination with the file system module can allow
     the user to easily access, direct to, write to, and read specific files in a directory.
+4. HTTP:
+    -The http module is used to create http servers and make http requests. It is used to make website and web applications. It can be used to handle different
+    http methods like Get, Post, etc.
+5. OS:
+    -The os object can giev useful information about the user's operating system. Some things like the memory used and the memory free. This can be useful to make
+    more interactive applications. For example if a user is using an older operating system then the application could be less intensive based on that information.

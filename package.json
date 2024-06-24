@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "moment": "^2.30.1"
   }
 }
